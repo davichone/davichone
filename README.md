@@ -30,7 +30,29 @@
 - ☁️ Me apasiona el desarrollo backend. 
 
 - 📝 Constantemente busco mejorar mi inglés técnico y aplicar buenas prácticas de ingeniería de software basadas en literatura técnica de O'Reilly.
+<!--test-->
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">📚 Lecturas Técnicas Destacadas</h2></summary>
+  </ul>
+</div>
 
+<p align="center">
+  El aprendizaje continuo es clave en el desarrollo de software. Estos son algunos de los libros que forman la base de mi código:
+</p>
+
+<div align="center">
+  <ul style="list-style-type: none; text-align: left; display: inline-block;">
+    <li>📖 <b>Tidy First?: A Personal Exercise in Empirical Software Design</b></li>
+    <li>🧠 <b>Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software (2nd Ed.)</b></li>
+    <li>☕ <b>Programación Orientada a Objetos: Java</b></li>
+    <li>⚙️ <b>Algoritmos: Una guía ilustrada para programadores y curiosos (2da Ed.)</b></li>
+  </ul>
+</div>
+<br>
+
+<!--test-->
 
 <!--2do title-->
 <div id="user-content-toc">
