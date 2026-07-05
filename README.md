@@ -29,7 +29,7 @@
 
 - 🌱 Estoy en proceso de aprendizaje de **Spring Boot, React y Angular**.
   
-- - 📝 Regularmente busco mejorar mi inglés técnico y aplicar buenas prácticas de ingeniería de software basadas en literatura técnica de O'Reilly.
+-  📝 Regularmente busco mejorar mi inglés técnico y aplicar buenas prácticas de ingeniería de software basadas en literatura técnica de O'Reilly.
 <!--test-->
 <!--h1 without bottom border-->
 <div id="user-content-toc">
