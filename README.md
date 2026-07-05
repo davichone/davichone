@@ -46,7 +46,7 @@
 <table align="center" style="border: none;">
   <tr align="center">
     <td width="25%">
-      <img src="http://googleusercontent.com/image_collection/image_retrieval/13981340123285040655" width="140" alt="Tidy First?"/><br><br>
+      <img src="https://tse1.mm.bing.net/th/id/OIP.41FZC37NQfPpkM0nfei7ygAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" width="140" alt="Tidy First?"/><br><br>
       <b>Tidy First?: A Personal Exercise in Empirical Software Design</b>
     </td>
     <td width="25%">
@@ -54,11 +54,11 @@
       <b>Head First Design Patterns (2nd Ed.)</b>
     </td>
     <td width="25%">
-      <img src="http://googleusercontent.com/image_collection/image_retrieval/10522599310968143169" width="140" alt="Programación Orientada a Objetos: Java"/><br><br>
+      <img src="https://m.media-amazon.com/images/I/71ia+pdwR1L._SL1500_.jpg" width="140" alt="Programación Orientada a Objetos: Java"/><br><br>
       <b>Programación Orientada a Objetos: Java</b>
     </td>
     <td width="25%">
-      <img src="http://googleusercontent.com/image_collection/image_retrieval/7454025909379921046" width="140" alt="Algoritmos"/><br><br>
+      <img src="https://www.elbazardelibro.com.mx/imagenes/9788441/978844154098.JPG" width="140" alt="Algoritmos"/><br><br>
       <b>Algoritmos: Una guía ilustrada (2da Ed.)</b>
     </td>
   </tr>
