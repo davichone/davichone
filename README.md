@@ -68,7 +68,12 @@ Here are some ideas to get you started:
     <summary><h2 style="display: inline-block">Conecta conmigo 🤝</h2></summary>
   </ul>
 </div>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- He configurado los iconos para mostrar las tecnologías que manejas y estás aprendiendo -->
+    <img src="https://skillicons.dev/icons?i=java,spring,react,angular,html,css,linux,vscode,mongodb,mysql,postgres,git,github,bash&perline=14" />
+  </a>
+</p>
 <!--icons and links-->
 <p align="center">
   <a href="TU_ENLACE_A_LINKEDIN" target="blank"><img align="center" src="https://skillicons.dev/icons?i=spring,react,angular=14" height="50" width="50" /></a>
