@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://avatars.fastly.steamstatic.com/be6f58b14593a09f0bbbcff71cfcdc945f7a11eb_full.jpg"
        alt="snake" /></a>
 </div>
 
