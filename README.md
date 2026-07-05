@@ -27,7 +27,7 @@
 
 - ☁️ Me apasiona el desarrollo backend. 
 
-- 📝 Constantemente busco mejorar mi inglés técnico y aplicar buenas prácticas de ingeniería de software basadas en literatura técnica de O'Reilly.
+- 📝 Regularmente busco mejorar mi inglés técnico y aplicar buenas prácticas de ingeniería de software basadas en literatura técnica de O'Reilly.
 
 - 🌱 Estoy en proceso de aprendizaje de **Spring Boot, React y Angular**. 
 <!--test-->
