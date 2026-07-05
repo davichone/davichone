@@ -34,12 +34,12 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">📚 Lecturas Técnicas Destacadas</h2></summary>
+    <summary><h2 style="display: inline-block">📚 Lecturas Técnicas que me ayudaron a comprender algunos fundamentos </h2></summary>
   </ul>
 </div>
 
 <p align="center">
-  El aprendizaje continuo es clave en el desarrollo de software. Estos son algunos de los libros que forman la base de mi código:
+  ...
 </p>
 
 <!-- Grilla de libros -->
