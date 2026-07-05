@@ -42,16 +42,28 @@
   El aprendizaje continuo es clave en el desarrollo de software. Estos son algunos de los libros que forman la base de mi código:
 </p>
 
-<div align="center">
-  <ul style="list-style-type: none; text-align: left; display: inline-block;">
-    <li>📖 <b>Tidy First?: A Personal Exercise in Empirical Software Design</b></li>
-    <li>🧠 <b>Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software (2nd Ed.)</b></li>
-    <li>☕ <b>Programación Orientada a Objetos: Java</b></li>
-    <li>⚙️ <b>Algoritmos: Una guía ilustrada para programadores y curiosos (2da Ed.)</b></li>
-  </ul>
-</div>
+<!-- Grilla de libros -->
+<table align="center" style="border: none;">
+  <tr align="center">
+    <td width="25%">
+      <img src="http://googleusercontent.com/image_collection/image_retrieval/13981340123285040655" width="140" alt="Tidy First?"/><br><br>
+      <b>Tidy First?: A Personal Exercise in Empirical Software Design</b>
+    </td>
+    <td width="25%">
+      <img src="http://googleusercontent.com/image_collection/image_retrieval/15872665584491962213" width="140" alt="Head First Design Patterns"/><br><br>
+      <b>Head First Design Patterns (2nd Ed.)</b>
+    </td>
+    <td width="25%">
+      <img src="http://googleusercontent.com/image_collection/image_retrieval/10522599310968143169" width="140" alt="Programación Orientada a Objetos: Java"/><br><br>
+      <b>Programación Orientada a Objetos: Java</b>
+    </td>
+    <td width="25%">
+      <img src="http://googleusercontent.com/image_collection/image_retrieval/7454025909379921046" width="140" alt="Algoritmos"/><br><br>
+      <b>Algoritmos: Una guía ilustrada (2da Ed.)</b>
+    </td>
+  </tr>
+</table>
 <br>
-
 <!--test-->
 
 <!--2do title-->
