@@ -18,7 +18,7 @@
 <!--my title-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Backend Developer & Software Engineering Student</h2></summary>
+    <summary><h2 style="display: inline-block">Software Engineering Student</h2></summary>
   </ul>
 </div>
 
@@ -48,7 +48,7 @@
     </td>
     <td width="25%">
       <img src="https://media.s-bol.com/B6BvOk6pP0QW/VW7MPW/550x635.jpg" width="140" alt="Head First Design Patterns"/><br><br>
-      <b>Head First Design Patterns (2nd Ed.)</b>
+      <b>Head First Design Patterns POO (2nd Ed.)</b>
     </td>
     <td width="25%">
       <img src="https://m.media-amazon.com/images/I/71ia+pdwR1L._SL1500_.jpg" width="140" alt="Programación Orientada a Objetos: Java"/><br><br>
@@ -56,7 +56,7 @@
     </td>
     <td width="25%">
       <img src="https://www.elbazardelibro.com.mx/imagenes/9788441/978844154098.JPG" width="140" alt="Algoritmos"/><br><br>
-      <b>Algoritmos: Una guía ilustrada (2da Ed.)</b>
+      <b>Algoritmos: Una guía ilustrada para programadores y curiosos (2da Ed.)</b>
     </td>
   </tr>
 </table>
