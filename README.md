@@ -27,14 +27,14 @@
 
 - ☁️ Me apasiona el desarrollo backend. 
 
-- 📝 Regularmente busco mejorar mi inglés técnico y aplicar buenas prácticas de ingeniería de software basadas en literatura técnica de O'Reilly.
-
-- 🌱 Estoy en proceso de aprendizaje de **Spring Boot, React y Angular**. 
+- 🌱 Estoy en proceso de aprendizaje de **Spring Boot, React y Angular**.
+  
+- - 📝 Regularmente busco mejorar mi inglés técnico y aplicar buenas prácticas de ingeniería de software basadas en literatura técnica de O'Reilly.
 <!--test-->
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">📚 Lecturas Técnicas que me ayudaron a comprender algunos fundamentos </h2></summary>
+    <summary><h2 style="display: inline-block">📚 Libros tecnicos que me ayudan a en mi continuo aprendizaje</h2></summary>
   </ul>
 </div>
 
@@ -48,7 +48,7 @@
     </td>
     <td width="25%">
       <img src="https://media.s-bol.com/B6BvOk6pP0QW/VW7MPW/550x635.jpg" width="140" alt="Head First Design Patterns"/><br><br>
-      <b>Head First Design Patterns POO (2nd Ed.)</b>
+      <b>Head First Design Patterns (2nd Ed.)</b>
     </td>
     <td width="25%">
       <img src="https://m.media-amazon.com/images/I/71ia+pdwR1L._SL1500_.jpg" width="140" alt="Programación Orientada a Objetos: Java"/><br><br>
