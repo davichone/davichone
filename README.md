@@ -23,13 +23,13 @@
 </div>
 
 <!--Intro start-->
-- 🔭 Actualmente hago mis prácticas pre-pofesionales en **Laney Corp**. Además, continúo desarrollando sistemas de gestión logística y arquitecturas de bases de datos multi-sede.
-
-- 🌱 Estoy en proceso de aprendizaje de **Spring Boot, React y Angular**. 
+- 🔭 Actualmente hago mis prácticas pre-pofesionales en **Laney Corp**. Además, continúo desarrollando un sistemas de gestión logística y arquitecturas de bases de datos multi-sede. 
 
 - ☁️ Me apasiona el desarrollo backend. 
 
 - 📝 Constantemente busco mejorar mi inglés técnico y aplicar buenas prácticas de ingeniería de software basadas en literatura técnica de O'Reilly.
+
+- 🌱 Estoy en proceso de aprendizaje de **Spring Boot, React y Angular**. 
 <!--test-->
 <!--h1 without bottom border-->
 <div id="user-content-toc">
