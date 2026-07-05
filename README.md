@@ -38,9 +38,6 @@
   </ul>
 </div>
 
-<p align="center">
-  ...
-</p>
 
 <!-- Grilla de libros -->
 <table align="center" style="border: none;">
