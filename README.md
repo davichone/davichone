@@ -50,7 +50,7 @@
       <b>Tidy First?: A Personal Exercise in Empirical Software Design</b>
     </td>
     <td width="25%">
-      <img src="http://googleusercontent.com/image_collection/image_retrieval/15872665584491962213" width="140" alt="Head First Design Patterns"/><br><br>
+      <img src="https://media.s-bol.com/B6BvOk6pP0QW/VW7MPW/550x635.jpg" width="140" alt="Head First Design Patterns"/><br><br>
       <b>Head First Design Patterns (2nd Ed.)</b>
     </td>
     <td width="25%">
