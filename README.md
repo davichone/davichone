@@ -64,13 +64,13 @@
 <!--2do title-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que manejo 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Suelo manejar 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,linux,eclipse,vscode,mongodb,mysql,postgres,git,github,bash&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,postgres,html,linux,eclipse,vscode,mongodb,mysql,git,github,bash&perline=14" />
   </a>
 </p>
 
