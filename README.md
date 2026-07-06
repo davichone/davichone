@@ -32,7 +32,7 @@
 <!--test-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">🐵 Libros que me ayudan en mi continuo aprendizaje</h2></summary>
+    <summary><h2 style="display: inline-block">🐵 Libros que me ayudan en mi continuo aprendizaje: </h2></summary>
   </ul>
 </div>
 
