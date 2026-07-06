@@ -23,8 +23,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 Actualmente hago mis prácticas pre-pofesionales en **Laney Corp**. Además, continúo desarrollando un sistemas de gestión logística y arquitecturas de bases de datos multi-sede. 
-
+- 🔭 Actualmente hago mis prácticas pre-pofesionales en **Laney Corp**. Todos los dias aprendo algo nuevo :) .
 - ☁️ Me apasiona el desarrollo backend. 
 
 - 🌱 Estoy en proceso de aprendizaje de **Spring Boot, React y Angular**.
