@@ -3,11 +3,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 🤠, Soy David Rolando</h1></summary>
   </ul>
-</div>
+</div> -->
 
 <!--- gato gordo -->
 <div align="center">
@@ -16,28 +16,30 @@
 </div>
 
 <!--my title-->
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Software Engineering Student</h2></summary>
   </ul>
-</div>
+</div> -->
 
 <!--Intro start-->
+<!--
 - 🔭 Actualmente hago mis prácticas pre-pofesionales en **Laney Corp**. Todos los dias aprendo algo nuevo :) .
 - ☁️ Me apasiona el desarrollo backend. 
 
 - 🌱 Estoy en proceso de aprendizaje de **Spring Boot, React y Angular**.
   
 -  📝 Regularmente busco mejorar mi inglés técnico y aplicar buenas prácticas de ingeniería de software basadas en literatura técnica de O'Reilly.
+-->
 <!--test-->
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">🐵 Libros que me ayudan en mi continuo aprendizaje: </h2></summary>
   </ul>
-</div>
+</div> -->
 
 <!-- libros -->
-<table align="center" style="border: none;">
+<!-- <table align="center" style="border: none;">
   <tr align="center">
     <td width="25%">
       <img src="https://tse1.mm.bing.net/th/id/OIP.41FZC37NQfPpkM0nfei7ygAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" width="140" alt="Tidy First?"/><br><br>
@@ -57,32 +59,32 @@
     </td>
   </tr>
 </table>
-<br>
+<br> -->
 <!--test-->
 
 <!--2do title-->
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Suelo manejar 👨🏻‍💻</h2></summary>
   </ul>
-</div>
+</div> -->
 <!--tech stack icons-->
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,postgres,html,linux,eclipse,vscode,mongodb,mysql,git,github,bash&perline=14" />
   </a>
-</p>
+</p> -->
 
 <!--3er title-->
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">En proceso de aprendizaje 😺</h2></summary>
   </ul>
 </div>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev"> -->
     <!-- 4to title -->
     <img src="https://skillicons.dev/icons?i=spring,react,angular," />
-  </a>
-</p>
+   <!-- </a>
+</p>-->
 
