@@ -84,7 +84,7 @@
 <p align="center">
   <a href="https://skillicons.dev"> -->
     <!-- 4to title -->
-    <img src="https://skillicons.dev/icons?i=,eres,un,raton,spring,react,angular," />
+    <img src="https://skillicons.dev/icons?i=,eres,un,raton," />
    <!-- </a>
 </p>-->
 
