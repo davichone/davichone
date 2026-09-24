@@ -83,8 +83,8 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev"> -->
-    <!-- 4to title -->
-    <img src="https://skillicons.dev/icons?i=,eres,un,raton," />
+    
+    <img src="eres,un,raton.gg" />
    <!-- </a>
 </p>-->
 
